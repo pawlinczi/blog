@@ -1,0 +1,7 @@
+django tutorial:
+
+python -m venv blog
+
+pip install django
+
+python -m django --version
